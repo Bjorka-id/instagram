@@ -10,7 +10,7 @@ $ ls
 
 $ git pull
 
-$ python3 insta.py
+$ python insta.py
 # peringatan
 tidak boleh mengentod anak ayam
 karna itu perbuatan kejii
